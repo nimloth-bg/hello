@@ -1,2 +1,2 @@
 # hello
-An initial repo to test some features
+An initial repo to test some features.
